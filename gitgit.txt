@@ -1,3 +1,5 @@
 GITの練習をします
 
 AAAA
+
+COMMIT MESSAGE
