@@ -5,3 +5,6 @@ AAAA
 COMMIT MESSAGE
 
 .git add
+
+
+remove
